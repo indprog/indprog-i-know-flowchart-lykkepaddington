@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Side-1" id="JhjY7KfnW-v3-hsoe-Jm">
+    <mxGraphModel dx="732" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oIHluG5xQBTHz4AV3gbb-6" edge="1" parent="1" source="oIHluG5xQBTHz4AV3gbb-1" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oIHluG5xQBTHz4AV3gbb-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oIHluG5xQBTHz4AV3gbb-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="start" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oIHluG5xQBTHz4AV3gbb-7" edge="1" parent="1" source="oIHluG5xQBTHz4AV3gbb-2" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oIHluG5xQBTHz4AV3gbb-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oIHluG5xQBTHz4AV3gbb-2" parent="1" style="whiteSpace=wrap;html=1;" value="Open a canvas" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oIHluG5xQBTHz4AV3gbb-8" edge="1" parent="1" source="oIHluG5xQBTHz4AV3gbb-3" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oIHluG5xQBTHz4AV3gbb-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oIHluG5xQBTHz4AV3gbb-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Draw oval for face" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oIHluG5xQBTHz4AV3gbb-9" edge="1" parent="1" source="oIHluG5xQBTHz4AV3gbb-4" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oIHluG5xQBTHz4AV3gbb-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oIHluG5xQBTHz4AV3gbb-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Draw 3 guideline for nose&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="oIHluG5xQBTHz4AV3gbb-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="end&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
